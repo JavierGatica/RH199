@@ -15,3 +15,22 @@
 * /tmp = Es un espacio con capacidad de escritura para archivos temporales. Los archivos a los que no se haya accedido, y que no se hayan cambiado ni modificado durante 10 días se eliminan de este directorio automáticamente
 * /boot = 	Son los archivos necesarios para iniciar el proceso de arranque.
 * /dev = Contiene archivos de dispositivo especiales que son usados por el sistema para acceder al hardware.
+
+
+# Los directorios de inicio son aquellos donde los usuarios habituales guardan sus datos personales y los archivos de configuración. <h5>
+ 
+ **La opción -p parent crea directorios de inicio faltantes para el destino solicitado.**
+ 
+ **cp =  copia uno o más archivos para que se conviertan en archivos nuevos e independientes**
+ **mv = cambia el nombre a los archivos en el mismo directorio o reubica archivos en un directorio nuevo. **
+ **rm = elimina archivos, pero no directorios**
+ **-f que fuerza la eliminación sin solicitar confirmación al usuario.**
+ **rmdir = elimina directorios solo si están vacíos. Los directorios eliminados no pueden recuperarse.**
+ 
+ 
+# Creación de enlaces entre archivos <h5>
+ 
+ **ln =  crea enlaces duros nuevos a archivos existentes**
+ **ln -s = permite crear un enlace blando, que también se conoce como "enlace simbólico". **
+ 
+ 
