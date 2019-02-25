@@ -5,3 +5,13 @@
 
 # Consolas virtuales <h5>
 *Cuando se esté ejecutando un entorno gráfico, presione Ctrl+Alt y presione una tecla de función (de F2 a F6) para acceder a un prompt de inicio de sesión de texto en una consola virtual. Presione Ctrl+Alt+F1 para regresar a la primera consola virtual y al escritorio gráfico.*
+
+# Conceptos básicos de la shell <h6>
+
+*Los comandos ingresados en el prompt de shell están compuestos por tres partes básicas:
+
+* Comando para ejecutar
+
+* Opciones para ajustar el comportamiento del comando
+
+* Argumentos, que generalmente son destinos del comando*
