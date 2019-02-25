@@ -43,7 +43,7 @@
   *El comando redhat-support-tool puede utilizarse como una shell interactiva o invocarse como si fuera un comando que se ejecuta en forma individual con opciones y argumentos.*
   *La herramienta redhat-support-tool permite que los suscriptores busquen y muestren el mismo contenido de la base de conocimientos que se ve cuando están en el portal de clientes de Red Hat.*
   
-  *kb = buscar informacion con el ID  del producto *
+  *kb = buscar informacion con el ID  del producto*
   
   *existen 4 niveles de gravedad para los problemas que se presenten*
   
@@ -52,6 +52,9 @@
   * Media (gravedad 3) = Un problema que implica una pérdida parcial no fundamental de la capacidad de uso del software en un entorno de producción o desarrollo.  
   * Baja (Gravedad) =  Un asunto de uso general, la comunicación de un error de documentación o una recomendación para una mejora o modificación futura del producto. 
   
+  
+  **analyze = analisis de archivo de registro**
+  **sosreport = genera un reporte del sistema**
   
   
   
