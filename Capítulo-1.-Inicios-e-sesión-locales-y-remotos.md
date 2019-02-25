@@ -32,7 +32,25 @@
   * clave privada ~/.ssh/id_rsa
   * clave pública ~/.ssh/id_rsa.pub.
   
-  ** ssh-agent = buscar mas informacion sobre este comando en el man**
+  **ssh-agent = buscar mas informacion sobre este comando en el man**
+  **Para poder usar la autenticación mediante claves, la clave pública debe copiarse en el sistema de destino. Esto puede realizarse con ssh-copy-id.**
+  
+  **Ejemplo**
+  *[student@desktopX ~]$ ssh-copy-id root@desktopY*
+  
+  # Obtención de ayuda de Red Hat <h5>
+ 
+  *El comando redhat-support-tool puede utilizarse como una shell interactiva o invocarse como si fuera un comando que se ejecuta en forma individual con opciones y argumentos.*
+  *La herramienta redhat-support-tool permite que los suscriptores busquen y muestren el mismo contenido de la base de conocimientos que se ve cuando están en el portal de clientes de Red Hat.*
+  
+  *kb = buscar informacion con el ID  del producto *
+  
+  *existen 4 niveles de gravedad para los problemas que se presenten*
+  
+  * Urgente (gravedad 1) = Perdida de los datos de producción o en las que los sistemas de produccion no están duncionando
+  * Alta (Gravedad 2) = Un problema donde el software funciona, pero su uso en un entorno de producción se ve gravemente reducido.  
+  * Media (gravedad 3) = Un problema que implica una pérdida parcial no fundamental de la capacidad de uso del software en un entorno de producción o desarrollo.  
+  * Baja (Gravedad) =  Un asunto de uso general, la comunicación de un error de documentación o una recomendación para una mejora o modificación futura del producto. 
   
   
   
