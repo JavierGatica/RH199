@@ -16,3 +16,29 @@
 
 *Nota: en RHEL7  todos los usuarios son mienbros del grupo wheel los cuales pueden hacer uso de **sudo** el cual ayudara a ejecutar comandos como si fuera root*
 
+
+
+# Administración de cuentas de usuarios locales <h5>
+  
+  *useradd = agregar usuario*
+  
+  *usermod = modificar usuarios*
+  
+  *usermod -aG =agregar usuarios aun grupo conservand los que tiene*
+  
+  *usermod -d = nuevo directorio de inicio*
+  
+  *usermod -L = bloquear la cuenta de un usuario*
+  
+  *usermod -U =desbloquear usuario*
+  
+  *userdel = elimina usuario pero conserva direcotorio*
+  
+  userdel -r = eimina usuario y directorio*
+  
+  
+  
+  
+  
+  
+  
